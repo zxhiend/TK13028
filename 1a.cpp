@@ -1,9 +1,9 @@
 # include <iostream>
 using namespace std;
 
-int x = 1;
-
 int main(){
+    int x = 1;
+    
     while (x<=10)
     {
         cout << x << ". Program C++" << endl;
